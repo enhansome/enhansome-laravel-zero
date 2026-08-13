@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome Laravel Zero"
+    },
+    {
+      "description": "Have you found something that make Laravel Zero more awesome? Make a PR and add it to the list!",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Music DL",
+          "description": "Music Searcher and Downloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T18:18:03Z",
+            "owner": "guanguans",
+            "repo": "music-dl",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Packer",
+          "description": "Awesome Command Line Tool for speeding up your package creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-08-14T03:00:30Z",
+            "owner": "bitfumes",
+            "repo": "laravel-packer",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Commit",
+          "description": "Automagically generate conventional commit messages with AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T21:11:54Z",
+            "owner": "guanguans",
+            "repo": "ai-commit",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Craftsman",
+          "description": "Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-12-09T00:28:23Z",
+            "owner": "mikeerickson",
+            "repo": "laravel-craftsman",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oh Dear CLI",
+          "description": "The official CLI for Oh Dear.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-23T09:50:20Z",
+            "owner": "ohdearapp",
+            "repo": "ohdear-cli",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forget DB",
+          "description": "A simple GDPR inspired tool to anonymise confidential database data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-21T17:57:33Z",
+            "owner": "OwenMelbz",
+            "repo": "forget-db",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forge CLI",
+          "description": "An opinionated Laravel Forge CLI tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-17T14:37:23Z",
+            "owner": "beyondcode",
+            "repo": "forge-cli",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Porter",
+          "description": "A docker based multi-site setup for local PHP development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-11-06T20:44:59Z",
+            "owner": "konsulting",
+            "repo": "porter",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hours",
+          "description": "An open source time tracker for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-09-27T22:00:13Z",
+            "owner": "matt-allan",
+            "repo": "hours",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harbor",
+          "description": "A CLI to generate docker-compose.yml tailored for Laravel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-12-07T10:36:03Z",
+            "owner": "WhatDaArchives",
+            "repo": "Harbor",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termux Webzone",
+          "description": "An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-07T16:16:49Z",
+            "owner": "albinvar",
+            "repo": "termux-webzone",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doddns",
+          "description": "Use Digital Ocean as a kind of dynamic DNS (ddns) provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-21T17:26:20Z",
+            "owner": "jpmurray",
+            "repo": "doddns",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chirp",
+          "description": "Automatically follow Twitter users and later unfollow them if they don't follow you back.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-04-04T19:23:34Z",
+            "owner": "gazugafan",
+            "repo": "chirp",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Photo CLI",
+          "description": "Streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-19T17:18:11Z",
+            "owner": "OctopyID",
+            "repo": "GPhotoCLI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMP validation CLI",
+          "description": "Test your Accelerated Mobile Pages right away from your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-11-05T10:33:18Z",
+            "owner": "jeffochoa",
+            "repo": "amp-validator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFL Scores",
+          "description": "A CLI for getting NFL games data in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-11-02T14:04:30Z",
+            "owner": "maxalmonte14",
+            "repo": "nfl-scores",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sage",
+          "description": "Sage is a helper for development environment on macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-01-08T04:14:41Z",
+            "owner": "ytorbyk",
+            "repo": "sage",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forge Sites",
+          "description": "List all your sites hosted on Laravel Forge.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-05-23T14:34:47Z",
+            "owner": "justutiz",
+            "repo": "forge-sites",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forge SSH Assistant",
+          "description": "An assistant for SSH'ing into Laravel Forge servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-21T17:27:52Z",
+            "owner": "WackyStudio",
+            "repo": "forge-ssh-assistant",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundry",
+          "description": "Use the artisan 'make' commands from laravel anywhere with Foundry!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-11-15T03:30:16Z",
+            "owner": "Zamerick",
+            "repo": "foundry",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anonfiles CLI",
+          "description": "An awesome console application which can upload and download files using Anonfiles api directly from your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-03-06T18:33:31Z",
+            "owner": "albinvar",
+            "repo": "anonfiles-cli",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Review",
+          "description": "A tool designed for improving workflows with Git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-06-09T17:40:13Z",
+            "owner": "mcampbell508",
+            "repo": "git-review",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazzier",
+          "description": "A console tool that allows to perform post-deployment tasks from a yml-config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-20T17:20:50Z",
+            "owner": "eddiriarte",
+            "repo": "lazzier",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Worldcup Notifications",
+          "description": "A project to fetch FIFA World Cup matches and send event notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-06T09:39:18Z",
+            "owner": "ClaudioVarandas",
+            "repo": "worldcup-notifications",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toggl CLI",
+          "description": "A Toggl CLI tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-05-22T14:53:20Z",
+            "owner": "PendoNL",
+            "repo": "toggl-cli",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hulksmash",
+          "description": "Console tool to scaffold an empty PHP project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-20T09:25:03Z",
+            "owner": "macghriogair",
+            "repo": "hulksmash",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zerohttpserver",
+          "description": "LaravelZero with thin HTTP server for REST APIs or web service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-09-05T00:36:51Z",
+            "owner": "marcocantugea",
+            "repo": "zerohttpserver",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutterwave CLI",
+          "description": "Test all API features and generate sample apps for easy integration of Flutterwave payment gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-29T08:58:10Z",
+            "owner": "emmajiugo",
+            "repo": "flutterwave-cli",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instagram CLI",
+          "description": "see and like photos and videos based on stories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-04-19T19:27:38Z",
+            "owner": "michelmelo",
+            "repo": "instagram-cli",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certinfo CLI",
+          "description": "Get SSL certificate information (CN and Expiration) from a PEM or DER certificate or directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-18T16:41:46Z",
+            "owner": "marco-introini",
+            "repo": "certinfo-cli",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movie CLI",
+          "description": "Get movies list with information using Laravel Zero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-22T09:45:40Z",
+            "owner": "doanhpv-0200",
+            "repo": "movie-cli",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rugby Schedule",
+          "description": "Rugby union schedules on the command-line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-02T11:47:14Z",
+            "owner": "owenvoke",
+            "repo": "rugby-schedule",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Checker",
+          "description": "A simple tool that performs a number of checks/scans against a domain to assert its security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-12T19:49:40Z",
+            "owner": "mace015",
+            "repo": "security-checker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lara Lambda",
+          "description": "Laravel, Lumen or LaravelZero ready to run on AWS Lambda.",
+          "children": []
+        }
+      ],
+      "title": "Projects using Laravel Zero"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T15:59:36Z",
+            "owner": "chiraggude",
+            "repo": "awesome-laravel",
+            "stars": 13088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Laravel Spark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-10-22T14:29:21Z",
+            "owner": "jpmurray",
+            "repo": "awesome-spark",
+            "stars": 313
+          }
+        }
+      ],
+      "title": "Looking for More"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:57:44.302Z",
+    "original_repository": "laravel-zero/awesome-laravel-zero",
+    "original_repository_sha": "df72fe8ce16eed116ae213a8f6c6f5e516032b44",
+    "enhanced_repository": "enhansome/enhansome-laravel-zero",
+    "enhanced_repository_description": null,
+    "title": "Awesome laravel zero with stars"
+  }
+}
