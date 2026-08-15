@@ -498,7 +498,7 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13088
+            "stars": 13089
           }
         },
         {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:55:38.584Z",
+    "last_updated": "2026-08-15T16:27:05.765Z",
     "original_repository": "laravel-zero/awesome-laravel-zero",
     "original_repository_sha": "df72fe8ce16eed116ae213a8f6c6f5e516032b44",
     "enhanced_repository": "enhansome/enhansome-laravel-zero",
