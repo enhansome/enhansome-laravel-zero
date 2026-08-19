@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,307 | 🐛 102 | 📅 2026-08-18
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
 
 > A curated list of awesome things related to Laravel Zero
 
@@ -26,9 +26,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Projects using Laravel Zero
 
-* [Music DL](https://github.com/guanguans/music-dl) ⭐ 755 | 🐛 0 | 🌐 PHP | 📅 2026-08-17: Music Searcher and Downloader.
+* [Music DL](https://github.com/guanguans/music-dl) ⭐ 755 | 🐛 0 | 🌐 PHP | 📅 2026-08-18: Music Searcher and Downloader.
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer) ⭐ 440 | 🐛 14 | 🌐 PHP | 📅 2022-08-14: Awesome Command Line Tool for speeding up your package creation.
-* [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 393 | 🐛 0 | 🌐 PHP | 📅 2026-08-17: Automagically generate conventional commit messages with AI.
+* [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-18: Automagically generate conventional commit messages with AI.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman) ⭐ 232 | 🐛 2 | 🌐 PHP | 📅 2020-12-09: Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
 * [Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli) ⭐ 141 | 🐛 0 | 🌐 PHP | 📅 2026-03-23: The official CLI for [Oh Dear](https://ohdear.app).
 * [Forget DB](https://github.com/OwenMelbz/forget-db) ⭐ 140 | 🐛 5 | 🌐 PHP | 📅 2022-06-21: A simple GDPR inspired tool to anonymise confidential database data.
@@ -87,4 +87,4 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

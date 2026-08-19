@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Awesome Laravel Zero"
-    },
-    {
-      "description": "Have you found something that make Laravel Zero more awesome? Make a PR and add it to the list!",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174921589,
             "language": "PHP",
-            "last_commit": "2026-08-17T21:06:54Z",
+            "last_commit": "2026-08-18T21:04:49Z",
             "owner": "guanguans",
             "repo": "music-dl",
             "stars": 755
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152115371,
             "language": "PHP",
             "last_commit": "2022-08-14T03:00:30Z",
             "owner": "bitfumes",
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595042098,
             "language": "PHP",
-            "last_commit": "2026-08-17T21:12:56Z",
+            "last_commit": "2026-08-18T21:07:55Z",
             "owner": "guanguans",
             "repo": "ai-commit",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176574987,
             "language": "PHP",
             "last_commit": "2020-12-09T00:28:23Z",
             "owner": "mikeerickson",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121807251,
             "language": "PHP",
             "last_commit": "2026-03-23T09:50:20Z",
             "owner": "ohdearapp",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134918465,
             "language": "PHP",
             "last_commit": "2022-06-21T17:57:33Z",
             "owner": "OwenMelbz",
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301533163,
             "language": "PHP",
             "last_commit": "2022-10-17T14:37:23Z",
             "owner": "beyondcode",
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 142672248,
             "language": "PHP",
             "last_commit": "2024-11-06T20:44:59Z",
             "owner": "konsulting",
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 184496869,
             "language": "PHP",
             "last_commit": "2021-09-27T22:00:13Z",
             "owner": "matt-allan",
@@ -146,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 157160461,
             "language": "PHP",
             "last_commit": "2019-12-07T10:36:03Z",
             "owner": "WhatDaArchives",
@@ -160,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349004268,
             "language": "PHP",
             "last_commit": "2022-05-07T16:16:49Z",
             "owner": "albinvar",
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148911049,
             "language": "PHP",
             "last_commit": "2022-06-21T17:26:20Z",
             "owner": "jpmurray",
@@ -188,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150024599,
             "language": "PHP",
             "last_commit": "2019-04-04T19:23:34Z",
             "owner": "gazugafan",
@@ -202,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605580197,
             "language": "PHP",
             "last_commit": "2025-07-19T17:18:11Z",
             "owner": "OctopyID",
@@ -216,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140186202,
             "language": "PHP",
             "last_commit": "2020-11-05T10:33:18Z",
             "owner": "jeffochoa",
@@ -230,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148950854,
             "language": "PHP",
             "last_commit": "2018-11-02T14:04:30Z",
             "owner": "maxalmonte14",
@@ -244,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140198107,
             "language": "PHP",
             "last_commit": "2023-01-08T04:14:41Z",
             "owner": "ytorbyk",
@@ -258,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132762809,
             "language": "PHP",
             "last_commit": "2018-05-23T14:34:47Z",
             "owner": "justutiz",
@@ -272,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193498178,
             "language": "PHP",
             "last_commit": "2022-06-21T17:27:52Z",
             "owner": "WackyStudio",
@@ -286,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134638161,
             "language": "PHP",
             "last_commit": "2022-11-15T03:30:16Z",
             "owner": "Zamerick",
@@ -300,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 386950683,
             "language": "PHP",
             "last_commit": "2023-03-06T18:33:31Z",
             "owner": "albinvar",
@@ -314,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125657368,
             "language": "PHP",
             "last_commit": "2018-06-09T17:40:13Z",
             "owner": "mcampbell508",
@@ -328,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122230277,
             "language": "PHP",
             "last_commit": "2018-02-20T17:20:50Z",
             "owner": "eddiriarte",
@@ -342,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137547820,
             "language": "PHP",
             "last_commit": "2018-07-06T09:39:18Z",
             "owner": "ClaudioVarandas",
@@ -356,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 120147841,
             "language": "PHP",
             "last_commit": "2020-05-22T14:53:20Z",
             "owner": "PendoNL",
@@ -370,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119964328,
             "language": "PHP",
             "last_commit": "2018-02-20T09:25:03Z",
             "owner": "macghriogair",
@@ -384,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292277649,
             "language": "PHP",
             "last_commit": "2020-09-05T00:36:51Z",
             "owner": "marcocantugea",
@@ -398,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164100867,
             "language": "PHP",
             "last_commit": "2021-06-29T08:58:10Z",
             "owner": "emmajiugo",
@@ -412,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226379893,
             "language": "PHP",
             "last_commit": "2023-04-19T19:27:38Z",
             "owner": "michelmelo",
@@ -426,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560847534,
             "language": "PHP",
             "last_commit": "2025-02-18T16:41:46Z",
             "owner": "marco-introini",
@@ -440,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122458283,
             "language": "PHP",
             "last_commit": "2018-02-22T09:45:40Z",
             "owner": "doanhpv-0200",
@@ -454,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471038401,
             "language": "PHP",
             "last_commit": "2025-07-02T11:47:14Z",
             "owner": "owenvoke",
@@ -468,24 +490,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120824461,
             "language": "PHP",
             "last_commit": "2018-02-12T19:49:40Z",
             "owner": "mace015",
             "repo": "security-checker",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Lara Lambda",
-          "description": "Laravel, Lumen or LaravelZero ready to run on AWS Lambda.",
-          "children": []
         }
       ],
       "title": "Projects using Laravel Zero"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -494,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22417801,
             "language": null,
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
@@ -508,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56694639,
             "language": null,
             "last_commit": "2018-10-22T14:29:21Z",
             "owner": "jpmurray",
@@ -520,8 +539,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:33:47.296Z",
+    "last_updated": "2026-08-19T12:38:43.114Z",
     "original_repository": "laravel-zero/awesome-laravel-zero",
+    "original_repository_id": 154147863,
     "original_repository_sha": "df72fe8ce16eed116ae213a8f6c6f5e516032b44",
     "enhanced_repository": "enhansome/enhansome-laravel-zero",
     "enhanced_repository_description": null,
