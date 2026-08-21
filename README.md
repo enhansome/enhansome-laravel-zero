@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,142 | 🐛 105 | 📅 2026-08-18
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,549 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to Laravel Zero
 
@@ -26,9 +26,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Projects using Laravel Zero
 
-* [Music DL](https://github.com/guanguans/music-dl) ⭐ 755 | 🐛 0 | 🌐 PHP | 📅 2026-08-18: Music Searcher and Downloader.
+* [Music DL](https://github.com/guanguans/music-dl) ⭐ 756 | 🐛 0 | 🌐 PHP | 📅 2026-08-18: Music Searcher and Downloader.
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer) ⭐ 440 | 🐛 14 | 🌐 PHP | 📅 2022-08-14: Awesome Command Line Tool for speeding up your package creation.
-* [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-18: Automagically generate conventional commit messages with AI.
+* [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-20: Automagically generate conventional commit messages with AI.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman) ⭐ 232 | 🐛 2 | 🌐 PHP | 📅 2020-12-09: Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
 * [Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli) ⭐ 141 | 🐛 0 | 🌐 PHP | 📅 2026-03-23: The official CLI for [Oh Dear](https://ohdear.app).
 * [Forget DB](https://github.com/OwenMelbz/forget-db) ⭐ 140 | 🐛 5 | 🌐 PHP | 📅 2022-06-21: A simple GDPR inspired tool to anonymise confidential database data.
@@ -36,7 +36,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Porter](https://github.com/konsulting/porter) ⚠️ Archived: A docker based multi-site setup for local PHP development.
 * [Hours](https://github.com/matt-allan/hours) ⚠️ Archived: An open source time tracker for the terminal.
 * [Harbor](https://github.com/whatdafox/harbor) ⚠️ Archived: A CLI to generate docker-compose.yml tailored for Laravel.
-* [Termux Webzone](https://github.com/albinvar/termux-webzone) ⭐ 42 | 🐛 2 | 🌐 PHP | 📅 2022-05-07: An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
+* [Termux Webzone](https://github.com/albinvar/termux-webzone) ⭐ 43 | 🐛 2 | 🌐 PHP | 📅 2022-05-07: An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
 * [Doddns](https://github.com/jpmurray/doddns) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2022-06-21: Use Digital Ocean as a kind of dynamic DNS (ddns) provider.
 * [Chirp](https://github.com/gazugafan/chirp) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2019-04-04: Automatically follow Twitter users and later unfollow them if they don't follow you back.
 * [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2025-07-19: Streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
@@ -82,9 +82,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Looking for More
 
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,097 | 🐛 86 | 📅 2024-07-03
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,096 | 🐛 88 | 📅 2024-07-03
 * [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
