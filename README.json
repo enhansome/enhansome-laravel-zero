@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T21:15:07Z",
             "owner": "guanguans",
             "repo": "music-dl",
-            "stars": 758
+            "stars": 757
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13095
+            "stars": 13092
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:45.603Z",
+    "last_updated": "2026-08-25T16:39:50.609Z",
     "original_repository": "laravel-zero/awesome-laravel-zero",
     "original_repository_id": 154147863,
     "original_repository_sha": "df72fe8ce16eed116ae213a8f6c6f5e516032b44",
