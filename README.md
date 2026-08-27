@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,141 | 🐛 105 | 📅 2026-08-21
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to Laravel Zero
 
@@ -26,7 +26,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Projects using Laravel Zero
 
-* [Music DL](https://github.com/guanguans/music-dl) ⭐ 757 | 🐛 0 | 🌐 PHP | 📅 2026-08-24: Music Searcher and Downloader.
+* [Music DL](https://github.com/guanguans/music-dl) ⭐ 757 | 🐛 0 | 🌐 PHP | 📅 2026-08-26: Music Searcher and Downloader.
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer) ⭐ 440 | 🐛 14 | 🌐 PHP | 📅 2022-08-14: Awesome Command Line Tool for speeding up your package creation.
 * [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-25: Automagically generate conventional commit messages with AI.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman) ⭐ 232 | 🐛 2 | 🌐 PHP | 📅 2020-12-09: Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
@@ -82,9 +82,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Looking for More
 
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,092 | 🐛 87 | 📅 2024-07-03
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,091 | 🐛 87 | 📅 2024-07-03
 * [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
