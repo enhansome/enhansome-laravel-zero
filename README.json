@@ -12,7 +12,7 @@
             "archived": false,
             "id": 174921589,
             "language": "PHP",
-            "last_commit": "2026-08-26T21:07:36Z",
+            "last_commit": "2026-08-27T21:09:15Z",
             "owner": "guanguans",
             "repo": "music-dl",
             "stars": 757
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 595042098,
             "language": "PHP",
-            "last_commit": "2026-08-25T02:40:08Z",
+            "last_commit": "2026-08-27T21:09:19Z",
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
@@ -516,7 +516,7 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13091
+            "stars": 13093
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:13.677Z",
+    "last_updated": "2026-08-28T00:46:50.558Z",
     "original_repository_info": {
       "archived": false,
       "id": 154147863,
