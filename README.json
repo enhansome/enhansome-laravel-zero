@@ -12,11 +12,12 @@
             "archived": false,
             "id": 174921589,
             "language": "PHP",
-            "last_commit": "2026-08-27T21:09:15Z",
+            "last_commit": "2026-08-28T21:04:35Z",
             "owner": "guanguans",
             "repo": "music-dl",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bitfumes",
             "repo": "laravel-packer",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeerickson",
             "repo": "laravel-craftsman",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ohdearapp",
             "repo": "ohdear-cli",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "OwenMelbz",
             "repo": "forget-db",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "beyondcode",
             "repo": "forge-cli",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "konsulting",
             "repo": "porter",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "matt-allan",
             "repo": "hours",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "WhatDaArchives",
             "repo": "Harbor",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "albinvar",
             "repo": "termux-webzone",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "jpmurray",
             "repo": "doddns",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "gazugafan",
             "repo": "chirp",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "OctopyID",
             "repo": "GPhotoCLI",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "jeffochoa",
             "repo": "amp-validator",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "maxalmonte14",
             "repo": "nfl-scores",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "ytorbyk",
             "repo": "sage",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "justutiz",
             "repo": "forge-sites",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "WackyStudio",
             "repo": "forge-ssh-assistant",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Zamerick",
             "repo": "foundry",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "albinvar",
             "repo": "anonfiles-cli",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "mcampbell508",
             "repo": "git-review",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "eddiriarte",
             "repo": "lazzier",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "ClaudioVarandas",
             "repo": "worldcup-notifications",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "PendoNL",
             "repo": "toggl-cli",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "macghriogair",
             "repo": "hulksmash",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "marcocantugea",
             "repo": "zerohttpserver",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "emmajiugo",
             "repo": "flutterwave-cli",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "michelmelo",
             "repo": "instagram-cli",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "marco-introini",
             "repo": "certinfo-cli",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "doanhpv-0200",
             "repo": "movie-cli",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "owenvoke",
             "repo": "rugby-schedule",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "mace015",
             "repo": "security-checker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         }
       ],
       "title": "Projects using Laravel Zero"
@@ -516,8 +549,9 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13093
-          }
+            "stars": 13094
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         },
         {
           "node_type": "item",
@@ -532,14 +566,15 @@
             "owner": "jpmurray",
             "repo": "awesome-spark",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-29T00:28:02.380Z"
         }
       ],
       "title": "Looking for More"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:46:50.558Z",
+    "last_updated": "2026-08-29T00:28:02.380Z",
     "original_repository_info": {
       "archived": false,
       "id": 154147863,
