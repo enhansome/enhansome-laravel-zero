@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,854 | 🐛 105 | 📅 2026-08-21
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,894 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to Laravel Zero
 
