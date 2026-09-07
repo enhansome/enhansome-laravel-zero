@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,581 | 🐛 106 | 📅 2026-09-02
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,934 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome things related to Laravel Zero
 
@@ -30,7 +30,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer) ⭐ 440 | 🐛 14 | 🌐 PHP | 📅 2022-08-14: Awesome Command Line Tool for speeding up your package creation.
 * [AI Commit](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-09-04: Automagically generate conventional commit messages with AI.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman) ⭐ 232 | 🐛 2 | 🌐 PHP | 📅 2020-12-09: Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
-* [Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli) ⭐ 141 | 🐛 0 | 🌐 PHP | 📅 2026-09-05: The official CLI for [Oh Dear](https://ohdear.app).
+* [Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli) ⭐ 141 | 🐛 1 | 🌐 PHP | 📅 2026-09-07: The official CLI for [Oh Dear](https://ohdear.app).
 * [Forget DB](https://github.com/OwenMelbz/forget-db) ⭐ 140 | 🐛 5 | 🌐 PHP | 📅 2022-06-21: A simple GDPR inspired tool to anonymise confidential database data.
 * [Forge CLI](https://github.com/beyondcode/forge-cli) ⭐ 105 | 🐛 5 | 🌐 PHP | 📅 2022-10-17: An opinionated Laravel Forge CLI tool
 * [Porter](https://github.com/konsulting/porter) ⚠️ Archived: A docker based multi-site setup for local PHP development.
@@ -82,9 +82,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Looking for More
 
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,095 | 🐛 88 | 📅 2024-07-03
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,097 | 🐛 88 | 📅 2024-07-03
 * [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
