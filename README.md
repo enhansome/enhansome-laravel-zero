@@ -4,7 +4,7 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,389 | 🐛 106 | 📅 2026-09-02
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,689 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome things related to Laravel Zero
 
@@ -36,7 +36,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Porter](https://github.com/konsulting/porter) ⚠️ Archived: A docker based multi-site setup for local PHP development.
 * [Hours](https://github.com/matt-allan/hours) ⚠️ Archived: An open source time tracker for the terminal.
 * [Harbor](https://github.com/whatdafox/harbor) ⚠️ Archived: A CLI to generate docker-compose.yml tailored for Laravel.
-* [Termux Webzone](https://github.com/albinvar/termux-webzone) ⭐ 43 | 🐛 2 | 🌐 PHP | 📅 2022-05-07: An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
+* [Termux Webzone](https://github.com/albinvar/termux-webzone) ⭐ 44 | 🐛 2 | 🌐 PHP | 📅 2022-05-07: An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
 * [Doddns](https://github.com/jpmurray/doddns) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2022-06-21: Use Digital Ocean as a kind of dynamic DNS (ddns) provider.
 * [Chirp](https://github.com/gazugafan/chirp) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2019-04-04: Automatically follow Twitter users and later unfollow them if they don't follow you back.
 * [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2025-07-19: Streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
@@ -82,9 +82,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Looking for More
 
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,099 | 🐛 89 | 📅 2024-07-03
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,098 | 🐛 90 | 📅 2024-07-03
 * [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
