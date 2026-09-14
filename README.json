@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "guanguans",
             "repo": "music-dl",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "command",
               "command-line-tool",
@@ -856,7 +856,7 @@
             "open_issues": 90,
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13098,
+            "stars": 13099,
             "topics": [
               "awesome",
               "laravel",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:36:25.339Z",
+    "last_updated": "2026-09-14T20:11:31.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
