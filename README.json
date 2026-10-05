@@ -15,11 +15,11 @@
             "id": 174921589,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:08:15Z",
+            "last_commit": "2026-10-05T21:42:27Z",
             "open_issues": 0,
             "owner": "guanguans",
             "repo": "music-dl",
-            "stars": 758,
+            "stars": 760,
             "topics": [
               "command",
               "command-line-tool",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:18:26.575Z",
+    "last_updated": "2026-10-05T22:21:45.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
