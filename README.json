@@ -15,7 +15,7 @@
             "id": 174921589,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:04:18Z",
+            "last_commit": "2026-10-15T21:07:52Z",
             "open_issues": 0,
             "owner": "guanguans",
             "repo": "music-dl",
@@ -856,7 +856,7 @@
             "open_issues": 92,
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13109,
+            "stars": 13110,
             "topics": [
               "awesome",
               "laravel",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:44:47.857Z",
+    "last_updated": "2026-10-16T19:25:31.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
