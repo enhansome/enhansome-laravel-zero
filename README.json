@@ -853,7 +853,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-03T15:59:36Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "chiraggude",
             "repo": "awesome-laravel",
             "stars": 13113,
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:53:24.620Z",
+    "last_updated": "2026-10-21T19:57:37.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
