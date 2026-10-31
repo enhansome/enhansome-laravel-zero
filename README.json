@@ -15,11 +15,11 @@
             "id": 174921589,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T21:08:56Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-30T21:06:24Z",
+            "open_issues": 3,
             "owner": "guanguans",
             "repo": "music-dl",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "command",
               "command-line-tool",
@@ -856,7 +856,7 @@
             "open_issues": 97,
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13128,
+            "stars": 13130,
             "topics": [
               "awesome",
               "laravel",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:30:19.000Z",
+    "last_updated": "2026-10-31T19:46:16.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
