@@ -229,7 +229,7 @@
             "open_issues": 6,
             "owner": "konsulting",
             "repo": "porter",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "docker",
               "docker-compose",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:46:16.834Z",
+    "last_updated": "2026-11-01T20:19:09.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
