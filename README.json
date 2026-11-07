@@ -856,7 +856,7 @@
             "open_issues": 99,
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13132,
+            "stars": 13134,
             "topics": [
               "awesome",
               "laravel",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:22:03.684Z",
+    "last_updated": "2026-11-07T19:58:38.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
