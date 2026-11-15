@@ -154,7 +154,7 @@
             "open_issues": 0,
             "owner": "ohdearapp",
             "repo": "ohdear-cli",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "cli",
               "monitoring",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:29:38.761Z",
+    "last_updated": "2026-11-15T20:52:49.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
