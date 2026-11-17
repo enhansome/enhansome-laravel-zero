@@ -83,7 +83,7 @@
             "open_issues": 0,
             "owner": "guanguans",
             "repo": "ai-commit",
-            "stars": 393,
+            "stars": 391,
             "topics": [
               "ai",
               "bito",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:02:08.630Z",
+    "last_updated": "2026-11-17T23:23:35.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "👋 START HERE! A curated list of Laravel Zero libraries, resources and projects",
